@@ -1,4 +1,6 @@
 def snock(test):
-	""" print input text """
-snock(input())
+    """ print input text """
+    print(test)
+    snock(input())
 
+snock()
