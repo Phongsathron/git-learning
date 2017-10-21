@@ -1,2 +1,6 @@
-print('eiei')
-print('hello')
+def main():
+	""" print some text """
+	print('eiei')
+	print('hello')
+main()
+
